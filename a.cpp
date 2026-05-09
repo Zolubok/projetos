@@ -127,22 +127,4 @@ int main(){
         }
         
 
-    //exercicio1();
-
-    //cout << "acabou o exercicio 1\n";
     
-    //exercicio2() ;
-
-    //cout << "acabou o execicio 2" << endl;
-
-    //exercicio3();
-
-    //cout << "acabou o exercicio 3" << endl;
-    
-    //exercicio4();
-
-    //cout << "acabou o exercicio 4" << endl ;
-    
-    return 0;
-}*/
-
